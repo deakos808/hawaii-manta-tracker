@@ -16,7 +16,7 @@ export default function App() {
       </header>
       <main>
         <h1>Welcome to Hawaii Manta Tracker App</h1>
-        <p>Track and identify manta rays through their unique ventral spot patterns.</p>
+        <p>This is a test update to confirm everything is synced properly.</p>
       </main>
     </div>
   );
